@@ -8,6 +8,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 
 After original data set, the cleaning have applied to the data, following setups were performed
+
 	* Extracts only the measurements on the mean and standard deviation for each measurement. 
 	* Uses descriptive activity names to name the activities in the data set
 	* Appropriately labels the data set with descriptive variable names. 
